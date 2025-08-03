@@ -1,0 +1,9 @@
+name: sports_academy
+description: Sports Academy App
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
